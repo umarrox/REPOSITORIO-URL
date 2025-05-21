@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M4wTmoWo89s=",
+  "success": true,
+  "projectFilePath": "/home/marrox/url-works/pcprac/lab-16/lab-16.csproj",
+  "expectedPackageFiles": [
+    "/home/marrox/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/marrox/url-works/pcprac/lab-16/obj/Debug/net9.0/lab-16.GeneratedMSBuildEditorConfig.editorconfig
+/home/marrox/url-works/pcprac/lab-16/obj/Debug/net9.0/lab-16.AssemblyInfoInputs.cache
+/home/marrox/url-works/pcprac/lab-16/obj/Debug/net9.0/lab-16.AssemblyInfo.cs
+/home/marrox/url-works/pcprac/lab-16/obj/Debug/net9.0/lab-16.csproj.CoreCompileInputs.cache
+/home/marrox/url-works/pcprac/lab-16/bin/Debug/net9.0/lab-16
+/home/marrox/url-works/pcprac/lab-16/bin/Debug/net9.0/lab-16.deps.json
+/home/marrox/url-works/pcprac/lab-16/bin/Debug/net9.0/lab-16.runtimeconfig.json
+/home/marrox/url-works/pcprac/lab-16/bin/Debug/net9.0/lab-16.dll
+/home/marrox/url-works/pcprac/lab-16/bin/Debug/net9.0/lab-16.pdb
+/home/marrox/url-works/pcprac/lab-16/obj/Debug/net9.0/lab-16.dll
+/home/marrox/url-works/pcprac/lab-16/obj/Debug/net9.0/refint/lab-16.dll
+/home/marrox/url-works/pcprac/lab-16/obj/Debug/net9.0/lab-16.pdb
+/home/marrox/url-works/pcprac/lab-16/obj/Debug/net9.0/lab-16.genruntimeconfig.cache
+/home/marrox/url-works/pcprac/lab-16/obj/Debug/net9.0/ref/lab-16.dll
